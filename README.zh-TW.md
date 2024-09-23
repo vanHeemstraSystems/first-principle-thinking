@@ -1,8 +1,8 @@
-儲存庫名稱
+第一原理思維
 
-# 儲存庫名稱
+# 第一原理思維
 
-基於“ABC”<https://www.abc.com/>
+基於“第一原理思維”<https://growthemind.ai/blogs/better-thinking/first-principle-thinking-defined-and-explored-best-books-on-first-principle-thinking>
 
 ## 100 - 簡介
 
