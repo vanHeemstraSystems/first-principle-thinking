@@ -1,8 +1,8 @@
-nom du référentiel
+pensée selon le premier principe
 
-# Nom du référentiel
+# Réflexion sur le premier principe
 
-Basé sur "ABC" à<https://www.abc.com/>
+Basé sur la « pensée du premier principe » de<https://growthemind.ai/blogs/better-thinking/first-principle-thinking-defined-and-explored-best-books-on-first-principle-thinking>
 
 ## 100 - Introduction
 
