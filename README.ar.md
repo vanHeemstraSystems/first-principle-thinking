@@ -1,8 +1,8 @@
-اسم المستودع
+التفكير بالمبدأ الأول
 
-# اسم المستودع
+# التفكير المبدأي الأول
 
-استنادا إلى "ABC" في<https://www.abc.com/>
+استنادا إلى "التفكير المبدأ الأول" في<https://growthemind.ai/blogs/better-thinking/first-principle-thinking-defined-and-explored-best-books-on-first-principle-thinking>
 
 ## 100- مقدمة
 
@@ -12,10 +12,10 @@
 
 يرى[README.md](./200/README.md)
 
-## 300 – بناء تطبيقنا
+## 300 - Building Our Application
 
 يرى[README.md](./300/README.md)
 
-## 400 - Conclusion
+## 400 - الخاتمة
 
 يرى[README.md](./400/README.md)
