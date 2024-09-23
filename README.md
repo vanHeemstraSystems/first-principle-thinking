@@ -1,7 +1,7 @@
 first-principle-thinking
 # First Principle Thinking
 
-Based on "First Principle Thinking" at https://www.abc.com/
+Based on "First Principle Thinking" at https://growthemind.ai/blogs/better-thinking/first-principle-thinking-defined-and-explored-best-books-on-first-principle-thinking
 
 ## 100 - Introduction
 
