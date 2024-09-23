@@ -2,7 +2,7 @@
 
 # 第一原理思维
 
-基于“第一原理思维”<https://www.abc.com/>
+基于“第一原理思维”<https://growthemind.ai/blogs/better-thinking/first-principle-thinking-defined-and-explored-best-books-on-first-principle-thinking>
 
 ## 100 - 简介
 
