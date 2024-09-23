@@ -4,6 +4,8 @@
 
 基于“第一原理思维”<https://growthemind.ai/blogs/better-thinking/first-principle-thinking-defined-and-explored-best-books-on-first-principle-thinking>
 
+基于“伟大的心智模型：一般思维概念”<https://www.amazon.co.uk/dp/B0D1MG89BC/ref=docs-os-doi_0>
+
 ## 100 - 简介
 
 看[README.md](./100/README.md)
