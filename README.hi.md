@@ -1,8 +1,8 @@
-भंडार-नाम
+प्रथम-सिद्धांत-सोच
 
-# भंडार का नाम
+# पहला सिद्धांत सोच
 
-"एबीसी" पर आधारित<https://www.abc.com/>
+"प्रथम सिद्धांत सोच" पर आधारित<https://growthemind.ai/blogs/better-thinking/first-principle-thinking-defined-and-explored-best-books-on-first-principle-thinking>
 
 ## 100 - परिचय
 
