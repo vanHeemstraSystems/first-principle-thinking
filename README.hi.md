@@ -2,9 +2,15 @@
 
 # पहला सिद्धांत सोच
 
+> Break down complex problems into basic elements and create innovative solutions from there.
+
 "प्रथम सिद्धांत सोच" पर आधारित<https://growthemind.ai/blogs/better-thinking/first-principle-thinking-defined-and-explored-best-books-on-first-principle-thinking>
 
 "द ग्रेट मेंटल मॉडल्स: जनरल थिंकिंग कॉन्सेप्ट्स" पर आधारित<https://www.amazon.co.uk/dp/B0D1MG89BC/ref=docs-os-doi_0>
+
+उदाहरण:
+
+![problem_map](https://github.com/user-attachments/assets/f50f9b5f-b06c-4065-b609-5d81443a992f)
 
 ## 100 - परिचय
 
@@ -20,4 +26,4 @@
 
 ## 400 - निष्कर्ष
 
-See [README.md](./400/README.md)
+देखना[README.md](./400/README.md)
