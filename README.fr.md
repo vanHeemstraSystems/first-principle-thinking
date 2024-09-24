@@ -1,4 +1,4 @@
-first-principle-thinking
+pensée selon le premier principe
 
 # Réflexion sur le premier principe
 
@@ -14,13 +14,13 @@ Exemple:
 
 ## 100 - Introduction
 
-See [README.md](./100/README.md)
+Voir[README.md](./100/README.md)
 
 ## 200 - Exigences
 
 Voir[README.md](./200/README.md)
 
-## 300 - Créer notre application
+## 300 - Construire notre application
 
 Voir[README.md](./300/README.md)
 
