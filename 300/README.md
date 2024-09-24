@@ -28,3 +28,8 @@ Let's see first-principles thinking in action. Here's a nice example from Wes O'
 
 "I did this on a project last year where we started with our problem statement. From there, I broke it down into its fundamental parts, then addressed each part, and reconfigured it to build up a solution."
 
+![problem_map](https://github.com/user-attachments/assets/f50f9b5f-b06c-4065-b609-5d81443a992f)
+
+## 300 - Sources
+- ["Mental models for designers" by Wes O'Haire](https://dropbox.design/article/mental-models-for-designers)
+- ["First Principles: The Building Blocks of True Knowledge" by Shane Parrish](https://fs.blog/2018/04/first-principles/)
