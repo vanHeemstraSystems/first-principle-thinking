@@ -2,9 +2,15 @@
 
 # 第一原理思维
 
-基于“第一原理思维”<https://growthemind.ai/blogs/better-thinking/first-principle-thinking-defined-and-explored-best-books-on-first-principle-thinking>
+> 将复杂的问题分解为基本要素，并从中创建创新的解决方案。
+
+Based on "First Principle Thinking" at <https://growthemind.ai/blogs/better-thinking/first-principle-thinking-defined-and-explored-best-books-on-first-principle-thinking>
 
 基于“伟大的心智模型：一般思维概念”<https://www.amazon.co.uk/dp/B0D1MG89BC/ref=docs-os-doi_0>
+
+例子：
+
+![problem_map](https://github.com/user-attachments/assets/f50f9b5f-b06c-4065-b609-5d81443a992f)
 
 ## 100 - 简介
 
