@@ -2,7 +2,7 @@
 
 # पहला सिद्धांत सोच
 
-> Break down complex problems into basic elements and create innovative solutions from there.
+> जटिल समस्याओं को बुनियादी तत्वों में विभाजित करें और वहां से नवीन समाधान बनाएं।
 
 "प्रथम सिद्धांत सोच" पर आधारित<https://growthemind.ai/blogs/better-thinking/first-principle-thinking-defined-and-explored-best-books-on-first-principle-thinking>
 
