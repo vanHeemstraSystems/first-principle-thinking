@@ -1,4 +1,4 @@
-第一原理思維
+first-principle-thinking
 
 # 第一原理思維
 
@@ -12,7 +12,7 @@
 
 ![problem_map](https://github.com/user-attachments/assets/f50f9b5f-b06c-4065-b609-5d81443a992f)
 
-## 100 - Introduction
+## 100 - 簡介
 
 看[README.md](./100/README.md)
 
