@@ -1,5 +1,11 @@
 # 100 - Introduction
 
+## What it is
+
+Sometimes also called "reasoning from first principles", it's a powerful tool for problem-solving. Identifying the basic principles of a problem will allow you to come up with innovative solutions.
+
+First principle is a basic principle or truth that cannot be broken down any further. First-principles thinking is about digging deeper until you arrive at the very foundations of a problem.
+
 ## Why it Matters
 
 Using first principles thinking, one avoids the potential pitfalls of convention, analogy, or historical precedent. It can be a powerful method to challenge existing paradigms and come up with innovative solutions or understandings. This framework can be applied across many areas of life:
