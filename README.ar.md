@@ -2,9 +2,15 @@
 
 # التفكير المبدأي الأول
 
+> قم بتقسيم المشكلات المعقدة إلى عناصر أساسية وإنشاء حلول مبتكرة من هناك.
+
 استنادا إلى "التفكير المبدأ الأول" في<https://growthemind.ai/blogs/better-thinking/first-principle-thinking-defined-and-explored-best-books-on-first-principle-thinking>
 
 استنادا إلى "النماذج العقلية الكبرى: مفاهيم التفكير العامة" في<https://www.amazon.co.uk/dp/B0D1MG89BC/ref=docs-os-doi_0>
+
+مثال:
+
+![problem_map](https://github.com/user-attachments/assets/f50f9b5f-b06c-4065-b609-5d81443a992f)
 
 ## 100- مقدمة
 
